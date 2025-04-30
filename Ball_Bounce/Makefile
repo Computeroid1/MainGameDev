@@ -1,2 +1,2 @@
 all:
-	g++ -I src/include/SDL2 -L src/lib main.cpp -o main -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
+	g++ -I src/include/SDL2 -L src/lib main.cpp -o Bounce -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
